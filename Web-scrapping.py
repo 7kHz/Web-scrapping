@@ -103,7 +103,7 @@ get_location()
 get_data(links_sorted_list, salary_list, company_name_list, location_list)
 
 
-with open('data_file.json', 'w') as data:
-    json.dump(data_list, data, indent=2, ensure_ascii=True)
+with open('data_file.json', 'w', encoding='utf-8') as data:
+    json.dump(data_list, data, indent=2, ensure_ascii=False)
 
 

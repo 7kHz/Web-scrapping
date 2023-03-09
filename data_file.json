@@ -1,26 +1,26 @@
 [
   {
     "link": "https://spb.hh.ru/vacancy/75888105?from=vacancy_search_list&query=python",
-    "salary": "\u0437/\u043f \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u0430",
+    "salary": "з/п не указана",
     "company_name": "WorkinGeeks ",
-    "location": "\u041c\u043e\u0441\u043a\u0432\u0430, \u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0441\u043a\u0430\u044f, \u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0441\u043a\u0430\u044f, \u041a\u0443\u0442\u0443\u0437\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, 32\u043a1"
+    "location": "Москва, Кутузовская, Кутузовская, Кутузовский проспект, 32к1"
   },
   {
     "link": "https://spb.hh.ru/vacancy/77716464?from=vacancy_search_list&query=python",
-    "salary": "\u043e\u0442 180 000 \u0440\u0443\u0431. \u043d\u0430 \u0440\u0443\u043a\u0438",
-    "company_name": "\u041e\u041e\u041e \u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0420\u0435\u0448\u0435\u043d\u0438\u0438\u0306 ",
-    "location": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "salary": "от 180 000 руб. на руки",
+    "company_name": "ООО Фабрика Решений ",
+    "location": "Москва"
   },
   {
     "link": "https://spb.hh.ru/vacancy/70705466?from=vacancy_search_list&query=python",
-    "salary": "\u043e\u0442 60 000 \u0434\u043e 220 000 \u0440\u0443\u0431. \u043d\u0430 \u0440\u0443\u043a\u0438",
+    "salary": "от 60 000 до 220 000 руб. на руки",
     "company_name": "Coding Team ",
-    "location": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    "location": "Москва"
   },
   {
     "link": "https://spb.hh.ru/vacancy/77190091?from=vacancy_search_list&query=python",
-    "salary": "\u043e\u0442 300 000 \u0434\u043e 450 000 \u0440\u0443\u0431. \u0434\u043e \u0432\u044b\u0447\u0435\u0442\u0430 \u043d\u0430\u043b\u043e\u0433\u043e\u0432",
-    "company_name": "Apostro ",
-    "location": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0412\u0430\u0441\u0438\u043b\u0435\u043e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0430\u044f, 8-\u044f \u043b\u0438\u043d\u0438\u044f \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0441\u043a\u043e\u0433\u043e \u043e\u0441\u0442\u0440\u043e\u0432\u0430, 25"
+    "salary": "от 300 000 до 450 000 руб. до вычета налогов",
+    "company_name": "ООО Атом Майнинг ",
+    "location": "Санкт-Петербург, Василеостровская, 8-я линия Васильевского острова, 25"
   }
 ]
